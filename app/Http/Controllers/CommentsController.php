@@ -5,8 +5,8 @@ use App\Http\Requests;
 use App\Http\Controllers\Controller;
 
 use Illuminate\Http\Request;
-use Illuminate\Support\Facades\Input;
-use Illuminate\Support\Facades\Redirect;
+use Redirect;
+use Input;
 
 class CommentsController extends Controller {
 
